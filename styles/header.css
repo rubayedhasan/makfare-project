@@ -1,0 +1,31 @@
+@import "./main.css";
+
+/* common styles  */
+.branding,
+nav .navbar {
+  gap: 20px;
+}
+
+/* branding section styles  */
+.brand {
+  width: 350px;
+}
+
+.brand figure {
+  width: 150px;
+  height: 150px;
+}
+.brand figure img {
+  width: 100%;
+  height: 100%;
+}
+
+.brand-information {
+  flex-grow: 1;
+}
+
+/* nav section styles  */
+nav {
+  justify-content: space-between;
+  align-items: center;
+}
