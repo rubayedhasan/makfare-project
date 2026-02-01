@@ -18,7 +18,7 @@
             <div class="brand">
                 <a href="./index.php">
                     <figure class="mf-flex-center">
-                        <img src="./assets/makfare_logo.png" alt="brand logo">
+                        <img src="./assets/makfare_logo_new.png" alt="brand logo">
                     </figure>
                 </a>
             </div>
@@ -54,7 +54,6 @@
                     <!-- icon  -->
                     <figure class="info-icon mf-flex-center mf-none">
                         <img src="./assets/phone_icon.png" alt="phone icon">
-
                     </figure>
                     <!-- phone number -->
                     <div class="info-text-container">
@@ -68,12 +67,13 @@
                     <!-- icon  -->
                     <figure class="info-icon mf-flex-center mf-none">
                         <img src="./assets/mail_icon.png" alt="mail icon">
-
                     </figure>
                     <!-- mail address -->
                     <div class="info-text-container">
                         <p class="info-sub-text">Send email</p>
-                        <p class="info-text text-slice">markfarecoldstorageltd@gmail.com
+                        <p class="info-text">makfarecold
+                            <br>
+                            storageltd@gmail.com
                         </p>
                     </div>
                 </div>
@@ -86,8 +86,8 @@
                     </figure>
                     <!-- location -->
                     <div class="info-text-container">
-                        <p class="info-sub-text">mostofapur, kamrul</p>
-                        <p class="info-text">Dhupchaciya, Bagura</p>
+                        <p class="info-sub-text">mostofapur, Chamrul</p>
+                        <p class="info-text">Dupchachiya, Bagura</p>
                     </div>
                 </div>
             </div>
