@@ -26,7 +26,7 @@
             <!-- contact information section -->
             <div class="brand-information mf-flex">
                 <!-- social icons  -->
-                <ul class="social-icons mf-flex">
+                <ul class="social-icons mf-flex mf-last-item">
                     <li class="icon-item mf-flex-center">
                         <a class="icon-link" href="">
                             <i class="fa-brands fa-twitter"></i>
@@ -52,7 +52,7 @@
                 <!-- phone info  -->
                 <div class="info-container mf-flex-center">
                     <!-- icon  -->
-                    <figure class="info-icon mf-flex-center">
+                    <figure class="info-icon mf-flex-center mf-none">
                         <img src="./assets/phone_icon.png" alt="phone icon">
 
                     </figure>
@@ -64,9 +64,9 @@
                 </div>
 
                 <!-- mail info  -->
-                <div class="info-container mf-flex-center">
+                <div class="info-container mf-flex-center ">
                     <!-- icon  -->
-                    <figure class="info-icon mf-flex-center">
+                    <figure class="info-icon mf-flex-center mf-none">
                         <img src="./assets/mail_icon.png" alt="mail icon">
 
                     </figure>
@@ -81,9 +81,8 @@
                 <!-- location info  -->
                 <div class="info-container mf-flex-center">
                     <!-- icon  -->
-                    <figure class="info-icon mf-flex-center">
+                    <figure class="info-icon mf-flex-center mf-none">
                         <img src="./assets/location_icon.png" alt="location icon">
-
                     </figure>
                     <!-- location -->
                     <div class="info-text-container">
@@ -97,22 +96,22 @@
 
 
         <!-- navbar section start  -->
-        <nav class="mf-flex">
-            <!-- navigation menu  -->
-            <ul class="navbar mf-flex">
+        <!-- <nav class="mf-flex"> -->
+        <!-- navigation menu  -->
+        <!-- <ul class="navbar mf-flex">
                 <li class="nav-item"><a href="" class="nav-link">Home</a></li>
                 <li class="nav-item"><a href="" class="nav-link">Services</a></li>
                 <li class="nav-item"><a href="" class="nav-link">Blog</a></li>
                 <li class="nav-item"><a href="" class="nav-link">Tissue Culture</a></li>
                 <li class="nav-item"><a href="" class="nav-link">Blog</a></li>
                 <li class="nav-item"><a href="" class="nav-link">About</a></li>
-            </ul>
+            </ul> -->
 
-            <!-- CTA buttons  -->
-            <div>
+        <!-- CTA buttons  -->
+        <!-- <div>
                 <button type="button">Contact Us</button>
-            </div>
-        </nav>
+            </div> -->
+        <!-- </nav> -->
         <!-- navbar section end  -->
     </header>
 
