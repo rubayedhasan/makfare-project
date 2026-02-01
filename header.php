@@ -24,23 +24,23 @@
             <!-- contact information section -->
             <div class="brand-information mf-flex">
                 <!-- social icons  -->
-                <ul class="social-icons">
-                    <li class="icon-item">
+                <ul class="social-icons mf-flex">
+                    <li class="icon-item mf-flex-center">
                         <a class="icon-link" href="">
                             <i class="fa-brands fa-twitter"></i>
                         </a>
                     </li>
-                    <li class="icon-item">
+                    <li class="icon-item mf-flex-center">
                         <a class="icon-link" href="">
                             <i class="fa-brands fa-facebook"></i>
                         </a>
                     </li>
-                    <li class="icon-item">
+                    <li class="icon-item mf-flex-center">
                         <a class="icon-link" href="">
                             <i class="fa-brands fa-pinterest-p"></i>
                         </a>
                     </li>
-                    <li class="icon-item">
+                    <li class="icon-item mf-flex-center">
                         <a class="icon-link" href="">
                             <i class="fa-brands fa-instagram"></i>
                         </a>
@@ -48,7 +48,7 @@
                 </ul>
 
                 <!-- phone info  -->
-                <div class="info-container">
+                <div class="info-container mf-flex">
                     <!-- icon  -->
                     <figure class="info-icon">
                         <img src="./assets/phone_icon.png" alt="phone icon">
@@ -62,7 +62,7 @@
                 </div>
 
                 <!-- mail info  -->
-                <div class="info-container">
+                <div class="info-container mf-flex">
                     <!-- icon  -->
                     <figure class="info-icon">
                         <img src="./assets/mail_icon.png" alt="mail icon">
@@ -76,7 +76,7 @@
                 </div>
 
                 <!-- location info  -->
-                <div class="info-container">
+                <div class="info-container mf-flex">
                     <!-- icon  -->
                     <figure class="info-icon">
                         <img src="./assets/location_icon.png" alt="location icon">

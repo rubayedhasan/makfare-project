@@ -8,12 +8,12 @@ nav .navbar {
 
 /* branding section styles  */
 .brand {
-  width: 350px;
+  width: 18rem;
 }
 
 .brand figure {
-  width: 150px;
-  height: 150px;
+  width: 9.375rem;
+  height: 9.375rem;
 }
 .brand figure img {
   width: 100%;
@@ -22,6 +22,23 @@ nav .navbar {
 
 .brand-information {
   flex-grow: 1;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.75rem;
+}
+
+.brand-information .social-icons {
+  gap: 1rem;
+}
+
+.social-icons .icon-item {
+  padding: 6px 12px;
+  border-radius: 50%;
+  background-color: #f8f7f0;
+}
+
+.social-icons .icon-item .icon-link i {
+  font-size: 14px;
 }
 
 /* nav section styles  */
