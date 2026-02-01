@@ -16,9 +16,11 @@
         <!-- brand heading section start -->
         <div class="branding mf-flex-center">
             <div class="brand">
-                <figure class="mf-flex-center">
-                    <img src="./assets/makfare_logo.png" alt="brand logo">
-                </figure>
+                <a href="./index.php">
+                    <figure class="mf-flex-center">
+                        <img src="./assets/makfare_logo.png" alt="brand logo">
+                    </figure>
+                </a>
             </div>
 
             <!-- contact information section -->
@@ -48,9 +50,9 @@
                 </ul>
 
                 <!-- phone info  -->
-                <div class="info-container mf-flex">
+                <div class="info-container mf-flex-center">
                     <!-- icon  -->
-                    <figure class="info-icon">
+                    <figure class="info-icon mf-flex-center">
                         <img src="./assets/phone_icon.png" alt="phone icon">
 
                     </figure>
@@ -62,30 +64,31 @@
                 </div>
 
                 <!-- mail info  -->
-                <div class="info-container mf-flex">
+                <div class="info-container mf-flex-center">
                     <!-- icon  -->
-                    <figure class="info-icon">
+                    <figure class="info-icon mf-flex-center">
                         <img src="./assets/mail_icon.png" alt="mail icon">
 
                     </figure>
                     <!-- mail address -->
                     <div class="info-text-container">
-                        <p class="info-sub-text">call anytime</p>
-                        <p class="info-text">+8801335-101449</p>
+                        <p class="info-sub-text">Send email</p>
+                        <p class="info-text text-slice">markfarecoldstorageltd@gmail.com
+                        </p>
                     </div>
                 </div>
 
                 <!-- location info  -->
-                <div class="info-container mf-flex">
+                <div class="info-container mf-flex-center">
                     <!-- icon  -->
-                    <figure class="info-icon">
+                    <figure class="info-icon mf-flex-center">
                         <img src="./assets/location_icon.png" alt="location icon">
 
                     </figure>
                     <!-- location -->
                     <div class="info-text-container">
-                        <p class="info-sub-text">call anytime</p>
-                        <p class="info-text">+8801335-101449</p>
+                        <p class="info-sub-text">mostofapur, kamrul</p>
+                        <p class="info-text">Dhupchaciya, Bagura</p>
                     </div>
                 </div>
             </div>
