@@ -71,9 +71,7 @@
                     <!-- mail address -->
                     <div class="info-text-container">
                         <p class="info-sub-text">Send email</p>
-                        <p class="info-text">makfarecold
-                            <br>
-                            storageltd@gmail.com
+                        <p class="info-text">makfarecoldstorageltd@gmail.com
                         </p>
                     </div>
                 </div>
