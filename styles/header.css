@@ -107,6 +107,7 @@ nav {
     order: 4;
   }
 
+  /* branding section styles  */
   .branding {
     flex-direction: column;
   }
@@ -117,8 +118,7 @@ nav {
 
   .brand-information {
     flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
     gap: 1rem;
   }
 
@@ -135,6 +135,7 @@ nav {
     justify-content: center;
     align-items: center;
     padding: 5px;
+    text-align: center;
   }
 
   .info-container .info-icon {
